@@ -9,6 +9,6 @@ bash PyCharm.sh
 bash updates.sh
 bash cleartrush.sh
 bash Docker.sh
-
+bash docker-compose.sh
 
 
